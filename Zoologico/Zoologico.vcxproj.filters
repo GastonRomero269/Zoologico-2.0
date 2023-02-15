@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ARCHIVOS C">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ARCHIVOS H">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="MAIN">
+      <UniqueIdentifier>{98b1e444-cdaa-4cc7-8928-fc624b02f682}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="util.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>MAIN</Filter>
+    </ClCompile>
+    <ClCompile Include="nodo.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="lista.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="centro.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="persona.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="domicilio.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="fecha.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="cuil.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="animal.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="archivos.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+    <ClCompile Include="menus.cpp">
+      <Filter>ARCHIVOS C</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="util.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="nodo.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="lista.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="centro.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="persona.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="domicilio.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="fecha.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="cuil.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="animal.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="menus.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+    <ClInclude Include="archivos.h">
+      <Filter>ARCHIVOS H</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
